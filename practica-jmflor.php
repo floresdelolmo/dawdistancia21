@@ -6,10 +6,11 @@
 *@package Proyecto tarea5
 */
 
+//Comentario para comprobar modificacion realizada en local.
+
 /**
-*Función que devuelve una cadean con un saludo al nombre que se le pasa por parametro.
-*@param string $nombre El nombre de la persona a saludar.
-*@return string $resultado El saludo completo en forma de cadena.
+*Función que devuelve una cadena con un saludo al nombre que se le pasa por parametro.
+*@internal Solo visble en la documentacion para los desarrolladores.
 */
 
 function holaNombre($nombre) {
